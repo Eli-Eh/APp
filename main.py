@@ -2,7 +2,7 @@ import discord
 import random
 
 r=random
-t="MTAyNzMwMTYxODU5ODgwOTY0MQ.GcvDYb.jm47yNXYp-hWvtb1T-WYsl6beeBC2_GK_-T24M"
+t="[your token here]"
 intents=discord.Intents.all()
 Perm=discord.Permissions.all()
 Perm.ban_members=True
